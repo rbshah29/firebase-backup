@@ -1,4 +1,9 @@
-# Firebase Storage Automated Backup System
+# This project provides a comprehensive solution for automating daily backups of Firebase Storage data to a separate Google Cloud Storage bucket. It includes setup instructions, deployment steps, and commands for monitoring, recovery, and cleanup.
+
+# For this you need service account with Storage Admin role in backup project and Storage Object Admin role in source project.
+
+
+# Firebase Storage Automated Backup System [Function Gen 2, Schedular]
 
 ## Source Project Setup
 ```bash
